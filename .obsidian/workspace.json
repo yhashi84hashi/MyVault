@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "bda7bc548442d286",
+    "type": "split",
+    "children": [
+      {
+        "id": "f510dbaf7212f756",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fa24806666d5dde",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69ca3229b3f0098e",
+    "type": "split",
+    "children": [
+      {
+        "id": "65284070e1c73571",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "763647938213d007",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "872824e8d31e4419",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "fbe1e05f31731e1d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb7d1a405467f135",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba00dde1168ccc73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2914e0e43180e437",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "40b2cfb87497289c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "0e49fab857c6b8b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "1b0c9f5813099d13",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "無題のファイル.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "無題のファイルのアウトライン"
+            }
+          },
+          {
+            "id": "181529c1dd80bd23",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:ワークスペースレイアウトを管理": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false,
+      "publish:パブリッシュによる変更の公開": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "5fa24806666d5dde",
+  "lastOpenFiles": [
+    "2025-09-08.md",
+    "readme.txt",
+    "Untitled.md",
+    "01Booster ゼロワンブースター – コワーキングスペース・コーポレートアクセラレーターを運営 1.md",
+    "01Booster ゼロワンブースター – コワーキングスペース・コーポレートアクセラレーターを運営.md",
+    "無題のファイル.base",
+    "無題のファイル.md",
+    "無題のファイル.canvas",
+    "無題のフォルダ"
+  ]
+}
